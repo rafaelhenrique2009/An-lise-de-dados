@@ -2,5 +2,7 @@ Esta pasta contém três projetos de análise de dados em Python criados com bas
 
 Projetos:
 1 - Campanha de marketing de uma loja física e virtual;
+
 2 - Campanha no Google Adsense;
+
 3 - Análise de um eccomerce;
